@@ -1,1 +1,1 @@
-# algorithm-DesignPatterns
+# algorithm and Design Patterns
